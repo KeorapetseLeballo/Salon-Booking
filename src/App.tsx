@@ -36,7 +36,7 @@ function App() {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center space-x-2">
               <Scissors className="w-8 h-8 text-purple-600" />
-              <span className="text-2xl font-bold text-gray-900">Keo and Kgatli's SalonBook</span>
+              <span className="text-2xl font-bold text-gray-900">Good Hair Saloon</span>
             </div>
             
             {/* Desktop Navigation */}
